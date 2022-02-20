@@ -3,8 +3,8 @@ from web3.auto import w3 as w
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
 
+load_dotenv()
 # my_address = os.getenv("PUBLIC_KEY")
 # private_key = os.getenv("PRIVATE_KEY")
 # private_key = bytearray.fromhex(private_key.replace("0x", ""))
